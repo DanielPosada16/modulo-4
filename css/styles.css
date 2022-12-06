@@ -10,13 +10,13 @@
 
 :root {
     /* Colors */
-    --orange: #F7B731;
-    --blue: rgb(65, 103, 241);
-    --pink: #E77ED9;
-    --green: #11AC84;
-    --white: #FFFFFF;
-    --white-2: #E8E8E8;
-    --white-dark: #F8F8F8;
+    --green: #38f731;
+    --red: rgb(226, 2, 2);
+    --purple: #9b198a;
+    --black: #000000;
+    --red-dark: #531a1a;
+    --yellow: #f7fc00;
+    --white-dark: #8a8484;
     --black: #000000;
     --gray: #666666;
     --gray-light: #888888;
